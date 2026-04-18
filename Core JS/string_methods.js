@@ -21,7 +21,7 @@ console.log(randomStringSplit);
 console.log(text.repeat(2));
 
 //trim text
-const text1 = "    Hello    Hello     Ayan     ";
+const text1 = "    Hello    Hello     Ayan      ";
 console.log(text1);
 console.log(text1.trim());
 console.log(text1.trim().length);

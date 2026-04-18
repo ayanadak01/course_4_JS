@@ -16,6 +16,6 @@ console.log(text.substring(2, 8));
 console.log(text.substring(-6)); //negative indexing is not considered
 
 let text2 = "HELLO AYAN";
-let text3 = "hello ayan";
+let text3 = "hello ayan adak";
 console.log(text2.toLowerCase());
 console.log(text3.toUpperCase());
